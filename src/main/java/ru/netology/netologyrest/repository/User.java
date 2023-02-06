@@ -9,7 +9,6 @@ import java.util.List;
 public class User {
     private String user;
     private String password;
-//    private List<Authorities> userAuthorities;
 
 
     public User() {
